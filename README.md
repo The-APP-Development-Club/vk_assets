@@ -1,5 +1,5 @@
 # Vibrant Key Assets
-Collection of scenes, individuals, and textures used by Vibrant Key
+Collection of scenes, individuals, and textures used by Vibrant Key Hi
 
 ## Contributing to this repository
 * You must be a member of the vibrant key team to contribute
