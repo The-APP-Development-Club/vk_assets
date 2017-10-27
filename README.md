@@ -8,7 +8,7 @@ Collection of scenes, individuals, and textures used by Vibrant Key
 * Follow the due dates
 * If you can create an asset with the archimesh plugin, like walls and doors, do so.
 * When exporting individual assets, export as .fbx
-* When exporting scenes, export as .fbx
+* When exporting scenes, export as .fbxawd
 * All online textures must be copyright free.
 
 ## Configurations
